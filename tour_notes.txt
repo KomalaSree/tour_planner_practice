@@ -1,1 +1,3 @@
 Tour Planning observations - first version.
+
+Checked and updated tour data observations.
